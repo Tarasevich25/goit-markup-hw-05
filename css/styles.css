@@ -305,7 +305,7 @@ img {
   border-radius: 50%;
   color: #afb1b8;
   transition-duration: 250ms;
-  transition-property: color;
+  transition-property: color, background-color;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .socials-link:hover,
@@ -452,7 +452,7 @@ img {
   color: var(--third-color);
   align-items: center;
   transition-duration: 250ms;
-  transition-property: color;
+  transition-property: background-color;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-socials-link:hover,
